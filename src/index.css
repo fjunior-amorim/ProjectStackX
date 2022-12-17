@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  
+}
+:root {
+  --background-001: #121212;
+  --background-002: #27272A;
+  --color-text-01: #FFFFFF;
+}
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}

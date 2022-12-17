@@ -1,0 +1,32 @@
+.card {
+    width: 1119px;
+    height: 57px;
+    background: #27272A;
+    border-radius: 8px;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card p {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #EDEDED;
+    margin-left: 20px;
+}
+.card button {
+    background: none;
+    border: none;
+    margin: 20px;
+    padding: 10px;
+}
+.card button svg {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.card button svg:hover {
+    cursor: pointer;
+    color: rgb(250, 120, 120);
+}
