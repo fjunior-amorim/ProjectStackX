@@ -15,8 +15,8 @@ Embora seja simples o projeto, foram aplicados muitos dos fundamentos de React.
 
 ## :gear:Tecnologias
 
-<p align="center">Este projeto contem conceitos iniciais em React, com as seguintes tecnologias:
-</p>
+* Este projeto contem conceitos iniciais em React, com as seguintes tecnologias:
+
 
   - [ ReactJS ](https://reactjs.org/)
   - [Vite](https://vitejs.dev/guide/)
